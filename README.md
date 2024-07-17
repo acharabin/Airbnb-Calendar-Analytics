@@ -1,6 +1,7 @@
 # Airbnb-Calendar-Analytics
 
-Product analytics hackathon using an Inside Airbnb calendar and listing dataset:
+Product analytics hackathon using a modified version of the
+Bayarea calendar and listing dataset from Inside Airbnb. 
 
 Please answer the following questions with Python:
 1. Please review the integrity of the data. Do you notice any data anomalies? If so, please
